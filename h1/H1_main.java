@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	} else {
 		z= z +10;
 	}
-	System.out.println("z = " +z);
+	//System.out.println("z = " +z);
 }
 }
 
