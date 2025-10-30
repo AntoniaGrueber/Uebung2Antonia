@@ -22,6 +22,6 @@ public static void main(String[] args) {
 	} else {
 		max=k;
 	}
-	System.out.println("Das Maximun beträgt " +max+ ". Das Minimum beträgt " +min+ ".");
+	//System.out.println("Das Maximun beträgt " +max+ ". Das Minimum beträgt " +min+ ".");
 }
 }
