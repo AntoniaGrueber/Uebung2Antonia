@@ -19,6 +19,6 @@ public static void main (String[] args) {
 		}else if (!(i > 200) && !(j > 100)){
 		k=4;
 	}
-	System.out.println("K ist " +k);
+	//System.out.println("K ist " +k);
 }
 }
